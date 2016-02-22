@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Hardware","Defines the host CPU Hardware.Can later be transformed into a Collenchyma hardware."]]});
